@@ -1,9 +1,5 @@
 
-<p align='center'> 
-<h1>
-Pipefy ui👽💜
-</h1>
-</p>
+<p align='center'> <h1 align='center'> Pipefy ui👽💜</h1></p>
 
  ui application pipefy clone
 
